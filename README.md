@@ -1,0 +1,2 @@
+# kodluyoruz_html_odev3
+Kodluyoruz_html_odev3_patika.dev
